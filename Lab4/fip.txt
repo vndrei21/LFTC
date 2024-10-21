@@ -1,0 +1,22 @@
+atom var cod atom: 4
+atom a cod atom: 0 pozitie ts:0
+atom , cod atom: 14
+atom b cod atom: 0 pozitie ts:1
+atom ; cod atom: 15
+atom integer cod atom: 7
+atom begin cod atom: 3
+atom readln cod atom: 11
+atom ( cod atom: 24
+atom ) cod atom: 25
+atom while cod atom: 10
+atom < cod atom: 20
+atom > cod atom: 21
+atom 0 cod atom: None
+atom do cod atom: None
+atom r cod atom: 0 pozitie ts:17
+atom : cod atom: 23
+atom = cod atom: None
+atom % cod atom: None
+atom end cod atom: 6
+atom writln cod atom: None
+atom . cod atom: 13
